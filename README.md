@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning programming fundamentals, including HTML, CSS, Python, and databases.
 - 💞️ I’m looking to collaborate on beginner-friendly tech projects and legal tech innovations.
-- 📫 How to reach me ...
-- 😄 Pronouns: email: zethulucysitole@gmail.com
+- 📫 How to reach me email: zethulucysitole@gmail.com
+- 😄 Pronouns: She, Her
 - ⚡ Fun fact: I can debate a legal case while debugging code!
 
 <!---
